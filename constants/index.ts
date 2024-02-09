@@ -1,4 +1,4 @@
-export const headrLinks = [
+export const headerLinks = [
     {
         label: 'Home',
         route: '/'
