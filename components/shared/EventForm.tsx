@@ -19,7 +19,7 @@ type EventFormProps = {
 }
 
 
-const EventForm = ({ userId, type }: EventFormProps) => {
+const EventForm = ({type }: EventFormProps) => {
     return (
         <div>EventForm {type}</div>
     )
